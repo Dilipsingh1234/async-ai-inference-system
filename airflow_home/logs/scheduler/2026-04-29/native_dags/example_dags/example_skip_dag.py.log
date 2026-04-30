@@ -1,0 +1,22 @@
+[2026-04-29T05:50:45.610+0000] {processor.py:186} INFO - Started process (PID=10336) to work on /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2026-04-29T05:50:45.611+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2026-04-29T05:50:45.613+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.612+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2026-04-29T05:50:45.620+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2026-04-29T05:50:45.832+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.831+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2026-04-29T05:50:45.843+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.842+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2026-04-29T05:50:45.851+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.851+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2026-04-29T05:50:45.864+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.864+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_skip_dag
+[2026-04-29T05:50:45.872+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.872+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_skip_dag
+[2026-04-29T05:50:45.881+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.880+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_skip_dag
+[2026-04-29T05:50:45.889+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.889+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_skip_dag
+[2026-04-29T05:50:45.889+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.889+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-29T05:50:45.899+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.899+0000] {dag.py:3262} INFO - Creating ORM DAG for example_skip_dag
+[2026-04-29T05:50:45.907+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:45.906+0000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2026-04-28 00:00:00+00:00, run_after=2026-04-29 00:00:00+00:00
+[2026-04-29T05:50:45.926+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.321 seconds
+[2026-04-29T05:51:45.167+0000] {processor.py:186} INFO - Started process (PID=10484) to work on /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2026-04-29T05:51:45.168+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2026-04-29T05:51:45.170+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:51:45.170+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2026-04-29T05:51:45.177+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2026-04-29T05:51:45.193+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:51:45.192+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-29T05:51:45.210+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:51:45.210+0000] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2026-04-28 00:00:00+00:00, run_after=2026-04-29 00:00:00+00:00
+[2026-04-29T05:51:45.229+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds

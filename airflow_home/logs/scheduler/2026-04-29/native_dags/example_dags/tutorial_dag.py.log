@@ -1,0 +1,36 @@
+[2026-04-29T05:46:58.051+0000] {processor.py:186} INFO - Started process (PID=9920) to work on /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:46:58.052+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T05:46:58.053+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.053+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:46:58.060+0000] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:46:58.154+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.154+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2026-04-29T05:46:58.166+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.166+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2026-04-29T05:46:58.175+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.174+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2026-04-29T05:46:58.188+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.188+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial_dag
+[2026-04-29T05:46:58.196+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.196+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial_dag
+[2026-04-29T05:46:58.205+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.204+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial_dag
+[2026-04-29T05:46:58.213+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.213+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial_dag
+[2026-04-29T05:46:58.213+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.213+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-29T05:46:58.225+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.225+0000] {dag.py:3262} INFO - Creating ORM DAG for tutorial_dag
+[2026-04-29T05:46:58.226+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:46:58.226+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T05:46:58.369+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.323 seconds
+[2026-04-29T05:50:01.186+0000] {processor.py:186} INFO - Started process (PID=10261) to work on /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:50:01.187+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T05:50:01.189+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:01.189+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:50:01.196+0000] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:50:01.211+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:01.211+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-29T05:50:01.222+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:01.222+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T05:50:01.242+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.061 seconds
+[2026-04-29T05:50:59.630+0000] {processor.py:186} INFO - Started process (PID=10361) to work on /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:50:59.631+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T05:50:59.633+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:59.633+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:50:59.640+0000] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:50:59.653+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:59.653+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-29T05:50:59.665+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:50:59.664+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T05:50:59.684+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.059 seconds
+[2026-04-29T05:51:57.872+0000] {processor.py:186} INFO - Started process (PID=10510) to work on /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:51:57.873+0000] {processor.py:914} INFO - Processing file /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2026-04-29T05:51:57.875+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:51:57.874+0000] {dagbag.py:588} INFO - Filling up the DagBag from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:51:57.882+0000] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py
+[2026-04-29T05:51:57.895+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:51:57.895+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-29T05:51:57.906+0000] {logging_mixin.py:190} INFO - [2026-04-29T05:51:57.906+0000] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2026-04-29T05:51:57.926+0000] {processor.py:208} INFO - Processing /home/ec2-user/environment/async-ai-inference-system/.venv/lib64/python3.9/site-packages/airflow/example_dags/tutorial_dag.py took 0.060 seconds
